@@ -29,4 +29,4 @@ A comprehensive implementation of a self-driving car system using deep learning 
      - Original frame.  
      - Segmented frame.  
      - Steering wheel response based on predicted angles.  
-![Visualization of the self-driving car system](image/output_img.png)
+![Visualization of the self-driving car system](Self-Driving-Car-Project/output_img.png)
